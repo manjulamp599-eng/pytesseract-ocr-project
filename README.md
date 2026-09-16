@@ -91,6 +91,3 @@ The project handles common errors such as:
 
 The objective of this project is to demonstrate the **seamless integration of Pytesseract OCR** into a Python application and provide a simple, user-friendly method for extracting text from images.
 
-## Author
-
-**Manjula**
